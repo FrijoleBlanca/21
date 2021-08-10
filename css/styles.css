@@ -1,0 +1,96 @@
+h3 {
+    font-family: 'Poppins';
+}
+
+h4 {
+    font-family: 'Poppins'; 
+}
+h5 {
+    font-family: 'Poppins'; 
+}
+h6 {
+    font-family: 'Poppins'; 
+}
+}.navbar {
+    align-items: ;
+}
+.navbar-brand {
+    font-family: 'Raleway Dots';
+    font-size: 64px;
+    font-weight: 500;
+}
+.navbar-brand img {
+    height: 100px;
+    width: 120px;
+    margin: auto;
+    padding-left: 8px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Poppins';
+    
+}
+.jumbotron {
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-top: 32px;
+    
+}
+.jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    text-align: left;
+}
+.jumbotron-fluid {
+    height: 30vh;
+    padding: 0;
+}
+.methodsCopy {
+    margin: auto;
+}
+.card {
+    margin-top: 64px;
+}
+.crochet {
+    text-align: center;
+    background-image: ;
+}
+.align-items-start {
+    border: solid 1px red;
+    padding: 32px;
+
+}
+.footer {
+    border: solid 1px red;
+    background-color: #FEF7F1;
+    padding: 0 32px;
+    margin-top: 128px;
+}
+.findUs {
+    text-align: center;
+    margin: auto;
+}
+.findUs a {
+    color:black;
+}
+.findUs img {
+    height: 50px;
+    width: 50px;
+}
+.copyright {
+    text-align: end;
+    margin: auto;
+    padding-top: 40px;
+}
+.footLogo {
+margin: auto;
+line-height: 0;
+}
+.footLogo .a {
+    color: black;
+}
